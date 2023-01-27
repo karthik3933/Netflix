@@ -1,0 +1,12 @@
+.banner{
+    height: 650px;
+    object-fit: contain;
+    width: 100%;
+}
+.banner_content{
+    padding-top: 500px;
+    margin-left: 20px;
+}
+.banner_title{
+    
+}
